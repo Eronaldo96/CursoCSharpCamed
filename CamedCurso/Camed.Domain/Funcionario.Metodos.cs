@@ -9,7 +9,17 @@ namespace Camed.Domain
 {
     public partial class Funcionario
     {
-        public static implicit operator FuncionarioDto(Funcionario funcionario)
+        //public static implicit operator FuncionarioDto(Funcionario funcionario)
+        //{
+        //    return new FuncionarioDto
+        //    {
+        //        Rg = funcionario.Rg,
+        //        Matricula = funcionario.Matricula,
+        //        Nome = funcionario.Nome,
+        //    };
+        //}
+
+        public static explicit operator FuncionarioDto(Funcionario funcionario)
         {
             return new FuncionarioDto
             {

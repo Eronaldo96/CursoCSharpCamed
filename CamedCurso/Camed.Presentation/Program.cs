@@ -1,4 +1,5 @@
 ﻿using Camed.Domain;
+using Camed.Domain.Dto;
 
 var funcionario = new Funcionario
 {
@@ -9,3 +10,10 @@ var funcionario = new Funcionario
     Gestor = "Shao Khan",
     Setor="OutWorld",
 };
+
+Console.WriteLine(funcionario.Nome);
+
+var dto = (FuncionarioDto)funcionario;
+
+Console.WriteLine(dto.Matricula);
+

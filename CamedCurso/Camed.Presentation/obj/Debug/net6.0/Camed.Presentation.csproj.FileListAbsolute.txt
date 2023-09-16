@@ -12,3 +12,7 @@ C:\camed\CamedCurso\Camed.Presentation\obj\Debug\net6.0\refint\Camed.Presentatio
 C:\camed\CamedCurso\Camed.Presentation\obj\Debug\net6.0\Camed.Presentation.pdb
 C:\camed\CamedCurso\Camed.Presentation\obj\Debug\net6.0\Camed.Presentation.genruntimeconfig.cache
 C:\camed\CamedCurso\Camed.Presentation\obj\Debug\net6.0\ref\Camed.Presentation.dll
+C:\camed\CamedCurso\Camed.Presentation\bin\Debug\net6.0\Camed.Domain.dll
+C:\camed\CamedCurso\Camed.Presentation\bin\Debug\net6.0\Camed.Domain.pdb
+C:\camed\CamedCurso\Camed.Presentation\obj\Debug\net6.0\Camed.Presentation.csproj.AssemblyReference.cache
+C:\camed\CamedCurso\Camed.Presentation\obj\Debug\net6.0\Camed.Presentation.csproj.CopyComplete

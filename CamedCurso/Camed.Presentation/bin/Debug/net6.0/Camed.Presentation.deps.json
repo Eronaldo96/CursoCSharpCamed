@@ -7,14 +7,27 @@
   "targets": {
     ".NETCoreApp,Version=v6.0": {
       "Camed.Presentation/1.0.0": {
+        "dependencies": {
+          "Camed.Domain": "1.0.0"
+        },
         "runtime": {
           "Camed.Presentation.dll": {}
+        }
+      },
+      "Camed.Domain/1.0.0": {
+        "runtime": {
+          "Camed.Domain.dll": {}
         }
       }
     }
   },
   "libraries": {
     "Camed.Presentation/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Camed.Domain/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
