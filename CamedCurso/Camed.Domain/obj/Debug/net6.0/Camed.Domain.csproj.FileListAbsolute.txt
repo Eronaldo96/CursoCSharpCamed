@@ -1,0 +1,11 @@
+C:\camed\CamedCurso\Camed.Domain\bin\Debug\net6.0\Camed.Domain.deps.json
+C:\camed\CamedCurso\Camed.Domain\bin\Debug\net6.0\Camed.Domain.dll
+C:\camed\CamedCurso\Camed.Domain\bin\Debug\net6.0\Camed.Domain.pdb
+C:\camed\CamedCurso\Camed.Domain\obj\Debug\net6.0\Camed.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\camed\CamedCurso\Camed.Domain\obj\Debug\net6.0\Camed.Domain.AssemblyInfoInputs.cache
+C:\camed\CamedCurso\Camed.Domain\obj\Debug\net6.0\Camed.Domain.AssemblyInfo.cs
+C:\camed\CamedCurso\Camed.Domain\obj\Debug\net6.0\Camed.Domain.csproj.CoreCompileInputs.cache
+C:\camed\CamedCurso\Camed.Domain\obj\Debug\net6.0\Camed.Domain.dll
+C:\camed\CamedCurso\Camed.Domain\obj\Debug\net6.0\refint\Camed.Domain.dll
+C:\camed\CamedCurso\Camed.Domain\obj\Debug\net6.0\Camed.Domain.pdb
+C:\camed\CamedCurso\Camed.Domain\obj\Debug\net6.0\ref\Camed.Domain.dll

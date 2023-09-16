@@ -1,0 +1,14 @@
+C:\camed\CamedCurso\Camed.Presentation\bin\Debug\net6.0\Camed.Presentation.exe
+C:\camed\CamedCurso\Camed.Presentation\bin\Debug\net6.0\Camed.Presentation.deps.json
+C:\camed\CamedCurso\Camed.Presentation\bin\Debug\net6.0\Camed.Presentation.runtimeconfig.json
+C:\camed\CamedCurso\Camed.Presentation\bin\Debug\net6.0\Camed.Presentation.dll
+C:\camed\CamedCurso\Camed.Presentation\bin\Debug\net6.0\Camed.Presentation.pdb
+C:\camed\CamedCurso\Camed.Presentation\obj\Debug\net6.0\Camed.Presentation.GeneratedMSBuildEditorConfig.editorconfig
+C:\camed\CamedCurso\Camed.Presentation\obj\Debug\net6.0\Camed.Presentation.AssemblyInfoInputs.cache
+C:\camed\CamedCurso\Camed.Presentation\obj\Debug\net6.0\Camed.Presentation.AssemblyInfo.cs
+C:\camed\CamedCurso\Camed.Presentation\obj\Debug\net6.0\Camed.Presentation.csproj.CoreCompileInputs.cache
+C:\camed\CamedCurso\Camed.Presentation\obj\Debug\net6.0\Camed.Presentation.dll
+C:\camed\CamedCurso\Camed.Presentation\obj\Debug\net6.0\refint\Camed.Presentation.dll
+C:\camed\CamedCurso\Camed.Presentation\obj\Debug\net6.0\Camed.Presentation.pdb
+C:\camed\CamedCurso\Camed.Presentation\obj\Debug\net6.0\Camed.Presentation.genruntimeconfig.cache
+C:\camed\CamedCurso\Camed.Presentation\obj\Debug\net6.0\ref\Camed.Presentation.dll

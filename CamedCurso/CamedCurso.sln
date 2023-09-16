@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Camed.Domain", "Camed.Domain\Camed.Domain.csproj", "{3D007DDF-E201-4B69-8D90-9C8743BAA025}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Camed.Presentation", "Camed.Presentation\Camed.Presentation.csproj", "{A3F8C8B1-3474-433C-812A-087737B20B39}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3D007DDF-E201-4B69-8D90-9C8743BAA025}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D007DDF-E201-4B69-8D90-9C8743BAA025}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D007DDF-E201-4B69-8D90-9C8743BAA025}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D007DDF-E201-4B69-8D90-9C8743BAA025}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A3F8C8B1-3474-433C-812A-087737B20B39}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3F8C8B1-3474-433C-812A-087737B20B39}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3F8C8B1-3474-433C-812A-087737B20B39}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3F8C8B1-3474-433C-812A-087737B20B39}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {78A72E67-A224-49D2-98D3-2462D1F2CE06}
+	EndGlobalSection
+EndGlobal
