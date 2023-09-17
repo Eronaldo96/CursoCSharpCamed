@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\camed\\CamedCurso\\Camed.Presentation\\Camed.Presentation.csproj": {}
+    "c:\\Users\\erona\\Desktop\\Eronaldo\\CursoCSharpCamed\\CamedCurso\\Camed.Presentation\\Camed.Presentation.csproj": {}
   },
   "projects": {
-    "C:\\camed\\CamedCurso\\Camed.Domain\\Camed.Domain.csproj": {
+    "C:\\Users\\erona\\Desktop\\Eronaldo\\CursoCSharpCamed\\CamedCurso\\Camed.Domain\\Camed.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\camed\\CamedCurso\\Camed.Domain\\Camed.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\erona\\Desktop\\Eronaldo\\CursoCSharpCamed\\CamedCurso\\Camed.Domain\\Camed.Domain.csproj",
         "projectName": "Camed.Domain",
-        "projectPath": "C:\\camed\\CamedCurso\\Camed.Domain\\Camed.Domain.csproj",
-        "packagesPath": "C:\\Users\\ALUNO\\.nuget\\packages\\",
-        "outputPath": "C:\\camed\\CamedCurso\\Camed.Domain\\obj\\",
+        "projectPath": "C:\\Users\\erona\\Desktop\\Eronaldo\\CursoCSharpCamed\\CamedCurso\\Camed.Domain\\Camed.Domain.csproj",
+        "packagesPath": "C:\\Users\\erona\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\erona\\Desktop\\Eronaldo\\CursoCSharpCamed\\CamedCurso\\Camed.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\ALUNO\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\erona\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -59,17 +59,17 @@
         }
       }
     },
-    "C:\\camed\\CamedCurso\\Camed.Presentation\\Camed.Presentation.csproj": {
+    "c:\\Users\\erona\\Desktop\\Eronaldo\\CursoCSharpCamed\\CamedCurso\\Camed.Presentation\\Camed.Presentation.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\camed\\CamedCurso\\Camed.Presentation\\Camed.Presentation.csproj",
+        "projectUniqueName": "c:\\Users\\erona\\Desktop\\Eronaldo\\CursoCSharpCamed\\CamedCurso\\Camed.Presentation\\Camed.Presentation.csproj",
         "projectName": "Camed.Presentation",
-        "projectPath": "C:\\camed\\CamedCurso\\Camed.Presentation\\Camed.Presentation.csproj",
-        "packagesPath": "C:\\Users\\ALUNO\\.nuget\\packages\\",
-        "outputPath": "C:\\camed\\CamedCurso\\Camed.Presentation\\obj\\",
+        "projectPath": "c:\\Users\\erona\\Desktop\\Eronaldo\\CursoCSharpCamed\\CamedCurso\\Camed.Presentation\\Camed.Presentation.csproj",
+        "packagesPath": "C:\\Users\\erona\\.nuget\\packages\\",
+        "outputPath": "c:\\Users\\erona\\Desktop\\Eronaldo\\CursoCSharpCamed\\CamedCurso\\Camed.Presentation\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\ALUNO\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\erona\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -83,8 +83,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\camed\\CamedCurso\\Camed.Domain\\Camed.Domain.csproj": {
-                "projectPath": "C:\\camed\\CamedCurso\\Camed.Domain\\Camed.Domain.csproj"
+              "C:\\Users\\erona\\Desktop\\Eronaldo\\CursoCSharpCamed\\CamedCurso\\Camed.Domain\\Camed.Domain.csproj": {
+                "projectPath": "C:\\Users\\erona\\Desktop\\Eronaldo\\CursoCSharpCamed\\CamedCurso\\Camed.Domain\\Camed.Domain.csproj"
               }
             }
           }

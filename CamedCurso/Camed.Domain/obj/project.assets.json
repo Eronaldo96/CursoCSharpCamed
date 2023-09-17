@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\ALUNO\\.nuget\\packages\\": {}
+    "C:\\Users\\erona\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\camed\\CamedCurso\\Camed.Domain\\Camed.Domain.csproj",
+      "projectUniqueName": "c:\\Users\\erona\\Desktop\\Eronaldo\\CursoCSharpCamed\\CamedCurso\\Camed.Domain\\Camed.Domain.csproj",
       "projectName": "Camed.Domain",
-      "projectPath": "C:\\camed\\CamedCurso\\Camed.Domain\\Camed.Domain.csproj",
-      "packagesPath": "C:\\Users\\ALUNO\\.nuget\\packages\\",
-      "outputPath": "C:\\camed\\CamedCurso\\Camed.Domain\\obj\\",
+      "projectPath": "c:\\Users\\erona\\Desktop\\Eronaldo\\CursoCSharpCamed\\CamedCurso\\Camed.Domain\\Camed.Domain.csproj",
+      "packagesPath": "C:\\Users\\erona\\.nuget\\packages\\",
+      "outputPath": "c:\\Users\\erona\\Desktop\\Eronaldo\\CursoCSharpCamed\\CamedCurso\\Camed.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\ALUNO\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\erona\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

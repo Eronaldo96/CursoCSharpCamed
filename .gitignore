@@ -1,0 +1,4 @@
+# Arquivos e diretórios a serem ignorados pelo Git
+# Ignorar pasta de compilação
+bin/
+obj/
